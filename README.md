@@ -1,19 +1,11 @@
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C242%20hrs%2048%20mins-blue?style=flat)
 
-> 📦 295.4 kB Used in GitHub's Storage 
- > 
-> 🏆 11 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Jakarta
+
 💬 Programming Languages: 
 PHP                      12 hrs 52 mins      █████████████████████░░░░   83.00 % 
 Bash                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
@@ -28,18 +20,6 @@ VS Code                  15 hrs 31 mins      ███████████�
 Linux                    15 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in C** 
 
-```text
-C                        6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-PHP                      5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
-Dart                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-```
-
-
-
-
- Last Updated on 11/05/2026 03:57:37 UTC
+ Last Updated on 11/05/2026 04:03:43 UTC
 <!--END_SECTION:waka-->
