@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C379%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C377%20hrs%2053%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -7,20 +7,20 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      3 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.48 % 
-Vue                      1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-TOML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-YAML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+PHP                      5 hrs 18 mins       █████████████░░░░░░░░░░░░   50.79 % 
+Vue                      1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+TOML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 38 mins       ████████████████████████░   94.74 % 
-Opencode Cli             28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+VS Code                  9 hrs 40 mins       ███████████████████████░░   92.66 % 
+Opencode Cli             46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 💻 Operating System: 
-Linux                    9 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    10 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/06/2026 14:21:27 UTC
+ Last Updated on 22/06/2026 04:59:27 UTC
 <!--END_SECTION:waka-->
