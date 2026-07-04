@@ -7,21 +7,21 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      8 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.43 % 
-Markdown                 4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Bash                     4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Go                       4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Markdown                 4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Go                       4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Bash                     3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+PHP                      2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 44 mins      ███████████████░░░░░░░░░░   60.18 % 
-OpenCode                 7 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-Opencode Cli             3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+VS Code                  10 hrs 56 mins      ██████████████░░░░░░░░░░░   57.43 % 
+OpenCode                 5 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+Opencode Cli             2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 
 💻 Operating System: 
-Linux                    26 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    19 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/07/2026 14:19:38 UTC
+ Last Updated on 04/07/2026 03:36:39 UTC
 <!--END_SECTION:waka-->
