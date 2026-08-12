@@ -9,45 +9,45 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-YAML                     13 hrs 5 mins       ████████████████░░░░░░░░░   62.98 % 
-Other                    1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Docker                   1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Markdown                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Bash                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+YAML                     15 hrs 8 mins       █████████████████░░░░░░░░   68.63 % 
+Docker                   2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Other                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 2 mins       ███████████████████░░░░░░   77.19 % 
-Opencode Cli             2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-OpenCode                 2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+VS Code                  17 hrs 46 mins      ████████████████████░░░░░   80.58 % 
+Opencode Cli             2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+OpenCode                 2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
 
 💻 Operating System: 
-Linux                    20 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 27 mins (40.69%)
+⏱ AI Coding Time: 8 hrs 10 mins (37.09%)
 
-✍️ 1,993 lines written by AI, 1,434 lines written by hand (58.16% AI-written)
+✍️ 2,176 lines written by AI, 2,100 lines written by hand (50.89% AI-written)
 
-🔤 3,659,886 Input Tokens, 123,500 Output Tokens
+🔤 4,413,225 Input Tokens, 147,371 Output Tokens
 
-💵 $14.29 Estimated AI Cost This Week
+💵 $17.01 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 129 AI Prompts
+🧠 32 AI Sessions, 130 AI Prompts
 
-Glm                      1,222 lines         ██████████████░░░░░░░░░░░   57.97 % 
-Opencode-Cli             545 lines           ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-Qwen                     341 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Glm                      1,407 lines         ███████████████░░░░░░░░░░   61.20 % 
+Opencode-Cli             551 lines           ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+Qwen                     341 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 58.16% of written lines came from AI
-📚 Verbose Prompter — average 2,037 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 49.62% of changed lines were hand-edited
+⚖️ Balanced with AI — 50.89% of written lines came from AI
+📚 Verbose Prompter — average 1,716 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 53.2% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 13:15:39 UTC
+ Last Updated on 12/08/2026 02:19:58 UTC
 <!--END_SECTION:waka-->
