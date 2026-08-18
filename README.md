@@ -9,45 +9,43 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-YAML                     8 hrs 7 mins        ████████████████░░░░░░░░░   63.48 % 
-PHP                      2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-Docker                   1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+YAML                     3 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.81 % 
+PHP                      2 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.71 % 
+Docker                   1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 9 mins       ████████████████████████░   94.98 % 
-Opencode Cli             29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-OpenCode                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+VS Code                  7 hrs 43 mins       █████████████████████████   99.27 % 
+OpenCode                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Linux                    12 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    7 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 33 mins (20.02%)
+⏱ AI Coding Time: 57 mins (12.23%)
 
-✍️ 895 lines written by AI, 1,482 lines written by hand (37.65% AI-written)
+✍️ 477 lines written by AI, 1,054 lines written by hand (31.16% AI-written)
 
-🔤 4,627,089 Input Tokens, 87,246 Output Tokens
+🔤 2,615,873 Input Tokens, 46,084 Output Tokens
 
-💵 $17.37 Estimated AI Cost This Week
+💵 $8.54 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 71 AI Prompts
+🧠 4 AI Sessions, 26 AI Prompts
 
-Glm                      419 lines           ██████████░░░░░░░░░░░░░░░   38.76 % 
-Opencode-Cli             381 lines           █████████░░░░░░░░░░░░░░░░   35.25 % 
-Qwen                     281 lines           ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+Glm                      321 lines           ████████████████░░░░░░░░░   64.85 % 
+Opencode-Cli             174 lines           █████████░░░░░░░░░░░░░░░░   35.15 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 37.65% of written lines came from AI
-📚 Verbose Prompter — average 2,015 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 61.32% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 31.16% of written lines came from AI
+📄 Detailed Prompter — average 936 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 69.95% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/08/2026 12:52:24 UTC
+ Last Updated on 18/08/2026 01:26:56 UTC
 <!--END_SECTION:waka-->
