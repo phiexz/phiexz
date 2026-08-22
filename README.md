@@ -9,25 +9,25 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 55 mins             █████████████░░░░░░░░░░░░   53.61 % 
-Other                    46 mins             ███████████░░░░░░░░░░░░░░   45.41 % 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Markdown                 57 mins             █████████░░░░░░░░░░░░░░░░   35.63 % 
+Other                    47 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+PHP                      43 mins             ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+SQL                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 43 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (44.84%)
+⏱ AI Coding Time: 46 mins (28.75%)
 
-✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 50 lines written by hand (0.0% AI-written)
 
 🔤 103,629 Input Tokens, 8,295 Output Tokens
 
@@ -43,5 +43,5 @@ Linux                    1 hr 43 mins        ███████████�
 ```
 
 
- Last Updated on 21/08/2026 12:55:53 UTC
+ Last Updated on 22/08/2026 01:26:43 UTC
 <!--END_SECTION:waka-->
