@@ -9,26 +9,26 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 1 hr 29 mins        █████████░░░░░░░░░░░░░░░░   34.39 % 
-PHP                      1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-SQL                      47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Other                    45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Markdown                 1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   41.70 % 
+SQL                      47 mins             ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Other                    45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+PHP                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       ███████████████████░░░░░░   75.26 % 
-OpenCode                 1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+VS Code                  2 hrs 29 mins       ██████████████████░░░░░░░   70.00 % 
+OpenCode                 1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   30.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 11 mins (73.75%)
+⏱ AI Coding Time: 3 hrs 11 mins (89.42%)
 
-✍️ 2,987 lines written by AI, 9 lines written by hand (99.7% AI-written)
+✍️ 2,987 lines written by AI, 5 lines written by hand (99.83% AI-written)
 
 🔤 3,720,276 Input Tokens, 66,173 Output Tokens
 
@@ -39,12 +39,12 @@ Linux                    4 hrs 19 mins       ███████████�
 Opencode-Cli             2,845 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.7% of written lines came from AI
+🤖 AI-Driven — 99.83% of written lines came from AI
 📚 Verbose Prompter — average 2,506 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.48% of changed lines were hand-edited
+🚀 High AI Trust — 1.32% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/10/2026 18:33:48 UTC
+ Last Updated on 20/10/2026 04:15:25 UTC
 <!--END_SECTION:waka-->
